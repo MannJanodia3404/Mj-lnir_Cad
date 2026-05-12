@@ -15,7 +15,7 @@ A 3D CAD model of **Mjolnir**, the legendary hammer of Thor from Norse mythology
 
 ---
 
-## 👀 How to view the design
+##  How to view the design
 
 ### Option 1: View in your browser (easiest)
 Just click on **[`mjolnir.stl`](mjolnir.stl)** — GitHub will render it as an interactive 3D model. You can:
